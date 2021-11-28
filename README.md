@@ -2,7 +2,7 @@
  
 ## Início do vídeo
 
-Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Rafaella Ballerini e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
+Oie gente sejam bem vindos a mais um vídeo aqui do canal, eu sou a Pablo Machado e hoje eu vou mostrar pra vocês como utilizamos o GIT na prática
 
 No [vídeo anterior](https://www.youtube.com/watch?v=DqTITcMq68k) eu expliquei os conceitos de alguns termos técnicos que utilizamos quando estamos usando o git, então [nesse vídeo](https://www.youtube.com/watch?v=UBAX-13g8OM) vou mostrar na prática como isso acontece.
 
@@ -190,6 +190,6 @@ Existem diversas outras funcionalidades do Git e do Github, porém tenho certeza
 
 Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-scm.com/doc), pois qualquer dúvida que apareça pode ser respondida por lá na explicação
 
-**Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://youtube.com/RafaellaBallerini) ❤**
+**Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://www.youtube.com/channel/UCX8o2NO86cnq3uIBmTNyN4Q) ❤**
 
 Até semana que vem, um beijo!
