@@ -136,7 +136,7 @@ Sempre que você entrar em um repositório, seja o seu ou o de qualquer outra pe
 
 * Você irá copiar esse link e levar ele lá pro nosso terminal
 
-* O comando para puxar o projeto para a sua máquina é o `git clone https://github.com/rafaballerini/GitTutorial.git`
+* O comando para puxar o projeto para a sua máquina é o `git clone https://github.com/pablerarock/GitClone.git`
 
 Não é necessário criar um repositório antes disso, como fizemos anteriormente com o `git init`. Dessa vez, basta abrir o terminal e clonar o projeto e tudo aparecerá!
 
@@ -148,7 +148,7 @@ E se eu fizer uma alteração no repositório, como vocês podem atualizar na m�
 
 ## Fork
 
-Mas Rafa quando eu fiz o clone do seu repositório ele não apareceu no meu Github.
+Mas Pablo quando eu fiz o clone do seu repositório ele não apareceu no meu Github.
 Existe a ferramenta `fork`, que é bem mais simples para fazer isso
 Você só precisa apertar nesse botão dentro do repositório e TCHANAM! Ele aparece automaticamente lá na sua conta:
 
@@ -193,3 +193,4 @@ Recomendo sempre vocês darem uma olhada na [documentação do Git](https://git-
 **Não esqueçam de deixar o like e se inscrever no [canal do Youtube](https://www.youtube.com/channel/UCX8o2NO86cnq3uIBmTNyN4Q) ❤**
 
 Até semana que vem, um beijo!
+
